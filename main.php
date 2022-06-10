@@ -1,0 +1,1 @@
+<?php require 'actions/securiteAction.php'; ?>
